@@ -7,7 +7,7 @@ El diseño de la interfaz se realizó en Figma, utilizando una paleta de colores
 1. Inico de la aplicacion.
   Aca se muestra como va a hacer el diseño de inico de la aplicacion.
 
-  ![Inicio](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/inicio.png)
+![Inicio](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/inicio.png)
 
 3. panel de la aplicacion.
   Este es el panel donde se muestran todas la peliculas y series que tiene la aplicacion.
