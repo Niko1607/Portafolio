@@ -14,8 +14,7 @@ El diseño de la interfaz se realizó en Figma, utilizando una paleta de colores
 
   ![panel](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/panel.png)
 
-5. Busqueda de Peliculas.
-  Este es el diseño de buscador de peliculas.
-
-    ![Busqueda](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/busqueda.png)
+3. Busqueda de Peliculas.
+   Este es el diseño de buscador de peliculas.
+  ![Busqueda](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/busqueda.png)
 
