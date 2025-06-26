@@ -10,7 +10,7 @@ En este proyecto se aplicaron técnicas de cracking utilizando herramientas como
 - Evaluación de seguridad en contraseñas del sistema (`/etc/shadow`)
 
 ## 📁 Contenido
-- `Proyecto1-password-crackers.pdf`: Informe completo con capturas, comandos utilizados y resultados del proyecto.
+- `Universidad de los Andes  Nicolás Camilo Moreno Arias  Proyecto1 password Crackers.pdf`: Informe completo con capturas, comandos utilizados y resultados del proyecto.
 
 ## 🔧 Herramientas usadas
 - Kali Linux
