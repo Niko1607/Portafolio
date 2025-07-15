@@ -9,14 +9,16 @@ Este portafolio es mi base de operaciones. Aquí subo mis proyectos, experimento
 - 🖥️ Desarrollo Web (Frontend & Backend)
 - 🧠 Ciberseguridad y hacking ético
 - 📊 Bases de datos
+- ☁  cloud computing
 - 🤖 Automatización y scripting
 - 🎮 Música.
 
 ## ⚙️ Tecnologías que uso o estoy aprendiendo
 
-- Lenguajes: `Python`,`java`, `JavaScript`, `HTML/CSS`,`C++` , `SQL` , `kotlin`, `r` , `julia`, `bach` , `powershell`
+- Lenguajes: `Python`,`java`, `JavaScript`, `HTML/CSS`,`C++` , `SQL` , `kotlin`, `r` , `julia`, `bach` , `powershell`,`C#`
 - Bases de datos: `MongoDB`, `MySQL`, `PostgreSQL`
-- Sistemas y herramientas: `Linux`, `Kali`, `Git`, `GitHub`
+- Sistemas y herramientas: `Linux`, `Kali`, `Git`, `GitHub`,`nmap`,`metasploit framework`,
+- Cloud Computing: `Microsoft azure`,`Aws`
 
 ## 🧪 Proyectos
 
@@ -30,5 +32,5 @@ Este portafolio es mi base de operaciones. Aquí subo mis proyectos, experimento
 
 ## 📬 Contacto
 
-- GitHub: [@Nikotica](https://github.com/tu_usuario)  
+- GitHub: https://github.com/Niko1607 
 - Correo: morenonikolas109@gmail.com
