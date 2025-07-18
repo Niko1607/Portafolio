@@ -17,7 +17,7 @@ Este portafolio es mi base de operaciones. Aquí subo mis proyectos, experimento
 
 - Lenguajes: `Python`,`java`, `JavaScript`, `HTML/CSS`,`C++` , `SQL` , `kotlin`, `r` , `julia`, `bach` , `powershell`,`C#`
 - Bases de datos: `MongoDB`, `MySQL`, `PostgreSQL`
-- Sistemas y herramientas: `Linux`, `Kali`, `Git`, `GitHub`,`nmap`,`metasploit framework`,
+- Sistemas y herramientas: `Linux`, `Kali`, `Git`, `GitHub`,`nmap`,`metasploit framework`, `Wireshark`,
 - Cloud Computing: `Microsoft azure`,`Aws`
 
 ## 🧪 Proyectos
